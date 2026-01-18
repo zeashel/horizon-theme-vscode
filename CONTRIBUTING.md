@@ -37,8 +37,8 @@ Here's how to contribute and submit your pull request:
 3. **Add, commit, and push** your changes to your branch.
 4. **Test out your changes.** Make sure that they work as you intended.
 5. [**Open a pull request**](https://github.com/jolaleye/horizon-theme-vscode/pulls) to merge your branch into `master`.
-   - Reference any issues related to your PR (e.g. "Closes #123").
-   - Describe your changes in detail and include screenshots if necessary.
+    - Reference any issues related to your PR (e.g. "Closes #123").
+    - Describe your changes in detail and include screenshots if necessary.
 6. :sunglasses: Sit back, relax, and wait for your PR to be reviewed. You might have to tweak your contribution or elaborate on your changes. That's OK, don't be afraid to justify your reasoning and ask questions.
 
 Thank you for reading through this contributing guide and welcome to the community! :v: :tada:
